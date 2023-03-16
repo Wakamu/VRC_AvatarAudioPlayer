@@ -9,5 +9,7 @@ This exemple component would allow avatars to play different audioclips from the
 
 This is setup to work similarly to how people play audio on their avatar right now,
 instead of animating an audiosource to be enabled, you animate the Index Property of that component and enable it.
+
+
 ![Component](https://i.imgur.com/JOSTxXD.png)
 
